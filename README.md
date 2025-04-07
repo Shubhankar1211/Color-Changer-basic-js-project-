@@ -1,1 +1,1 @@
-# Color-Changer-basic-js-project-
+# Color-Changer-basic-js-exercise-
